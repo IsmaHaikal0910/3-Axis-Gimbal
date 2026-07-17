@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "storm32-nt-v4_1-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/storm32-nt-v4_1-eagle-import.kicad_sym") (options "") (descr ""))
+)

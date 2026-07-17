@@ -1,0 +1,6 @@
+CASE#DEFAULT
+   RESTORE "Rc Yaw Speed Limit"
+   STOP
+CASE#1
+   SETP "Rc Yaw Speed Limit" 10.0
+   STOP
